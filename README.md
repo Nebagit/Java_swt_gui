@@ -27,8 +27,6 @@ A desktop application built using **Java SWT** to learn **graphical user interfa
 ```bash
 git clone https://github.com/Nebagit/Java_swt_gui.git
 cd Java_swt_gui
-Import into your Java IDE (Eclipse / IntelliJ)
-
 Run Main.java to launch the GUI application
 
 🎯 Purpose
